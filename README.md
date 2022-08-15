@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacob 🤙</h1>
 <h3 align="center">A passionate frontend developer from Poland 🇵🇱</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bu4st&label=Profile%20views&color=0e75b6&style=flat" alt="bu4st" /> </p>
 
