@@ -1,3 +1,4 @@
+[![MasterHead](https://static.wixstatic.com/media/619c23_34758c9546344ca5abe20c7567162a4e~mv2.gif/v1/fit/w_320,h_180,q_90/619c23_34758c9546344ca5abe20c7567162a4e~mv2.gif)](soon)
 <h1 align="center">Hi 👋, I'm Jacob 🇵🇱</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif"/>
