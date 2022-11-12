@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Vacation site**
+- 🔭 I’m currently working on **MediaHub website**
 
 - 🌱 I’m currently learning **javascript**
 
