@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **MediaHub website**
+- 🔭 I’m currently working on **Betrion**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
